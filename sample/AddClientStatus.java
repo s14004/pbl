@@ -29,7 +29,7 @@ public class AddClientStatus extends ConsoleStatus {
 	}
 
 	// 最初に出力するメッセージを表示する
-	// このクラスでは従業員のデータの入力処理
+	// このクラスでは顧客のデータの入力処理
 	// のみを行う
 	/** displayFirstMess
 	 * @throws Exception
